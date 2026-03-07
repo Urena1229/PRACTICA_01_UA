@@ -1,7 +1,17 @@
 h1 {
+<<<<<<< HEAD
     color: green;
+=======
+    color: yellow;
+>>>>>>> feature_2
 }
 p {
     color:blue;
 }
+<<<<<<< HEAD
 
+=======
+table {
+    background-color: lightblue;
+}
+>>>>>>> feature_2
